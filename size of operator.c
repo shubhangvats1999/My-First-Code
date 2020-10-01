@@ -1,3 +1,4 @@
+// Here the code starts.
 #include<stdio.h>
 int main() {
     int b=10;
@@ -13,3 +14,4 @@ int main() {
     
     return 0;
 }
+// Here the code ends.
